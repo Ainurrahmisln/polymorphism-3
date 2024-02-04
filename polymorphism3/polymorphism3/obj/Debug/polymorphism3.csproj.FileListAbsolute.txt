@@ -1,0 +1,10 @@
+C:\semester 2\pemprograman\cobaaa\polymorphism3\polymorphism3\obj\Debug\polymorphism3.csproj.AssemblyReference.cache
+C:\semester 2\pemprograman\cobaaa\polymorphism3\polymorphism3\obj\Debug\polymorphism3.csproj.CoreCompileInputs.cache
+C:\semester 2\pemprograman\cobaaa\polymorphism3\polymorphism3\bin\Debug\polymorphism3.exe.config
+C:\semester 2\pemprograman\cobaaa\polymorphism3\polymorphism3\bin\Debug\polymorphism3.exe
+C:\semester 2\pemprograman\cobaaa\polymorphism3\polymorphism3\bin\Debug\polymorphism3.pdb
+C:\semester 2\pemprograman\cobaaa\polymorphism3\polymorphism3\bin\Debug\Newtonsoft.Json.dll
+C:\semester 2\pemprograman\cobaaa\polymorphism3\polymorphism3\bin\Debug\Newtonsoft.Json.xml
+C:\semester 2\pemprograman\cobaaa\polymorphism3\polymorphism3\obj\Debug\polymorphism3.csproj.CopyComplete
+C:\semester 2\pemprograman\cobaaa\polymorphism3\polymorphism3\obj\Debug\polymorphism3.exe
+C:\semester 2\pemprograman\cobaaa\polymorphism3\polymorphism3\obj\Debug\polymorphism3.pdb
